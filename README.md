@@ -225,18 +225,21 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👤 Author
+## 👥 Contributors & Acknowledgments
 
-**Willis Dongmo**  
+**Primary Author:** Willis Dongmo  
 GitHub: [@willisdongmo](https://github.com/willisdongmo)  
 LinkedIn: [Willis Dongmo](https://linkedin.com/in/willisdongmo)
+- Complete data analysis, modeling, and evaluation
+
+**Project Contributor:** Emily Chiu  
+- Initial project idea and scope definition
+- Dataset selection and sourcing
+- Academic context coordination
+
+**Academic Context:** DAT 402 - Data Science Project Course
 
 ---
-
-## 🙏 Acknowledgments
-
-- Kaggle for providing the dataset
-- Academic context: DAT 402 coursework demonstrating practical ML implementation
 
 ---
 
